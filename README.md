@@ -8,7 +8,7 @@
 
 :house_with_garden: Brazilian (living in Belo Horizonte-MG, Brazil).
 
-:family: Married with 2 children.
+:family: Married, 2 children.
 
 :heavy_check_mark: Looking for work as freelancer or full-time (CLT ou PJ - para o Brasi).
 
