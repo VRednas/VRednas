@@ -40,7 +40,8 @@
 ### Please, have a look on my social and projects:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-sander-barreiros-de-oliveira-10824956/)<img src="https://c.tenor.com/1yDkJOVClPwAAAAi/backhand-index-pointing-left-joypixels.gif" width="40">
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VRednas/VRednas/edit/main/README.md)<img src="https://c.tenor.com/1yDkJOVClPwAAAAi/backhand-index-pointing-left-joypixels.gif" width="40">
+<br><br>
+<a href="https://github.com/VRednas/Tic-Tac-Toe-Game"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/VRednas/Tic-Tac-Toe-Game.png" width="460px"></a>
 
 <br>
 
