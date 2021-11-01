@@ -43,6 +43,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-sander-barreiros-de-oliveira-10824956/)<img src="https://c.tenor.com/1yDkJOVClPwAAAAi/backhand-index-pointing-left-joypixels.gif" width="40">
 <br><br>
 <a href="https://github.com/VRednas/Tic-Tac-Toe-Game"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/VRednas/Tic-Tac-Toe-Game.png" width="460px"></a>
+<a href="https://github.com/VRednas/Brazilian-main-food"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/VRednas/Brazilian-main-food.png" width="460px"></a>
 
 <br>
 
