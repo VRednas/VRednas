@@ -6,19 +6,19 @@
 
 :computer: Junior Front-End Developer!
 
-:house_with_garden: Brazilian (living in Belo Horizonte-MG, Brazil).
+:house_with_garden: Brazilian (living in Belo Horizonte-MG, Brazil) / Brasileiro (morando em Belo Horizonte-MG).
 
-:family: Married, 2 children.
+:family: Married, 2 children / Casado, 2 filhos.
 
-:heavy_check_mark: Looking for work as freelancer or full-time (CLT ou PJ - para o Brasi).
+:heavy_check_mark: Looking for work as freelancer or full-time (CLT ou PJ - para o Brasi) / Procurando oportunidades como freelancer ou período integral (CLT ou PJ).
 
-:outbox_tray: My 1 Year Goals: keep creating new projects and find a new job as developer.
+:outbox_tray: My 1 Year Goals: keep creating new projects and find a new job as developer / Objetivos de 1 ano: seguir criando projetos e conseguir um emprego como desenvolvedor.
 
-:outbox_tray: My 5 Years Goals: to be a great front-end developer and become a great full-stack (I´m already working on it!).
+:outbox_tray: My 5 Years Goals: to be a great front-end developer and become a great full-stack (I´m already working on it!) / Objetivos de 5 anos: ser um grande desenvolvedor front-end e me tornar um full-stack (já estou trabalhando nisso!).
 
 <br>
 
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="30"> My skills
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="30"> My skills / Minhas Habilidades
 
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,9 +36,9 @@
 
 <br>
 
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="30"> About Me
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="30"> About Me / Sobre mim
 
-### Please, have a look on my social and projects:
+### Please, have a look on my social and projects: / Por favor, dê uma olhada no meu perfil e em meus projetos:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-sander-barreiros-de-oliveira-10824956/)<img src="https://c.tenor.com/1yDkJOVClPwAAAAi/backhand-index-pointing-left-joypixels.gif" width="40">
 <br><br>
